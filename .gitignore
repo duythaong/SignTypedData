@@ -1,0 +1,4 @@
+src/generated.ts
+node_modules
+.env
+.next
